@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AndroidWallet</string>
+    <string name="action_delete_all">Delete All</string>
+    <string name="warn_message">Nincs kitöltve</string>
+    <string name="sum">0</string>
+    <string name="save">Save</string>
+    <string name="expense">EXPENSE</string>
+    <string name="income">INCOME</string>
+    <string name="_0">0</string>
+</resources>
